@@ -1,0 +1,5 @@
+{
+  "name": "Bala's Generative Visual Storyboard",
+  "description": "A web application that takes a Wikipedia page URL, generates distinct story scenes using Gemini, and then visualizes each scene with a generated image, creating a complete visual storyboard.",
+  "requestFramePermissions": []
+}
